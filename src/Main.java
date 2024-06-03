@@ -9,8 +9,6 @@ public class Main {
                 "Escolha 3",
         };
 
-        ImageIcon image = new ImageIcon("./src/Teste.png");
-
         String input = (String) JOptionPane.showInputDialog(
                 null,
                 "Opções",
